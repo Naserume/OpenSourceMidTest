@@ -1,4 +1,7 @@
-This is from finalfinal
 내가 바보같이 commit을 수정안했네
 그런짓은 하지 말아야 했는데 난 그 사실을 몰랐어
 이제와서 후회한들 뭐하리 나는 수면부족이 돼버린걸
+aaaaaa
+merge conflict를 확실하게 수정했다.
+error
+hahahah
